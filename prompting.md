@@ -9,3 +9,4 @@
 
 参考:
 - [プロンプティング101 _ コード w_ Claude - YouTube](https://www.youtube.com/watch?v=ysPbXH0LpIE)
+- [Claude Codeのベストプラクティス _ Code w_ Claude - YouTube](https://www.youtube.com/watch?v=gv0WHhKelSE)
